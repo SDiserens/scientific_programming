@@ -273,16 +273,28 @@
       "Mean, median and mode word length is 4.328929604628737, 4.0, 4.\n",
       "\n",
       "10 longest words:\n",
+<<<<<<< HEAD
+=======
       "misunderstanding\n",
       "enthusiastically\n",
+>>>>>>> ab8d218de95972047b6f8f854b606aee93f7d50d
       "incomprehensible\n",
-      "personification\n",
+      "misunderstanding\n",
+      "enthusiastically\n",
       "horticulturally\n",
       "disrespectfully\n",
+<<<<<<< HEAD
+      "personification\n",
+      "unsatisfactory\n",
+      "respectability\n",
+      "superciliously\n",
+      "sentimentality\n",
+=======
       "ostentatiously\n",
       "superciliously\n",
       "metaphorically\n",
       "unsatisfactory\n",
+>>>>>>> ab8d218de95972047b6f8f854b606aee93f7d50d
       "\n",
       "Most common words:\n",
       "543 x you\n",
